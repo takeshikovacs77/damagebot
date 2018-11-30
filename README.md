@@ -1,0 +1,2 @@
+# damagebot
+bot
